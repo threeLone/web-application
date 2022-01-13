@@ -22,6 +22,18 @@ function App() {
   return (
     <div>
       <div>
+       <div>
+         <h1>Solve technical questions</h1>
+         <div>
+           <span>Database</span>
+           <span>Python</span>
+           <span>Bash</span>
+           <span>Job Board</span>
+         </div>
+         
+       </div>
+      </div>
+      <div>
         <form>
           <label>Fname</label>
           <input type='name' name='Fname' onChange={(e) => {
